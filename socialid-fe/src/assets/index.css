@@ -42,3 +42,7 @@
     font-display: swap;
     src: url('./fonts/Roboto-Black.ttf') format('woff2');
 }
+
+input, button {
+    outline: none;
+}
